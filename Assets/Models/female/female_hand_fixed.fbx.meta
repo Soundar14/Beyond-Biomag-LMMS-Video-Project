@@ -1,0 +1,133 @@
+fileFormatVersion: 2
+guid: 7ea46f7a059ba9a4e8568993902d6d72
+timeCreated: 1458542823
+licenseType: Free
+ModelImporter:
+  serializedVersion: 18
+  fileIDToRecycleName:
+    100000: Camera
+    100002: cornea_L
+    100004: cornea_R
+    100006: eyeball_L
+    100008: eyeball_R
+    100010: //RootNode
+    100012: gr_eye_brows
+    100014: gr_eye_L
+    100016: gr_eye_l_brow
+    100018: gr_eye_R
+    100020: gr_eye_r_brow
+    100022: gr_female_assets
+    100024: mod_eye_l_brow_bot
+    100026: mod_eye_l_brow_top
+    100028: mod_eye_r_brow_bot
+    100030: mod_eye_r_brow_top
+    100032: mod_female
+    400000: Camera
+    400002: cornea_L
+    400004: cornea_R
+    400006: eyeball_L
+    400008: eyeball_R
+    400010: //RootNode
+    400012: gr_eye_brows
+    400014: gr_eye_L
+    400016: gr_eye_l_brow
+    400018: gr_eye_R
+    400020: gr_eye_r_brow
+    400022: gr_female_assets
+    400024: mod_eye_l_brow_bot
+    400026: mod_eye_l_brow_top
+    400028: mod_eye_r_brow_bot
+    400030: mod_eye_r_brow_top
+    400032: mod_female
+    2300000: cornea_L
+    2300002: cornea_R
+    2300004: eyeball_L
+    2300006: eyeball_R
+    2300008: mod_eye_l_brow_bot
+    2300010: mod_eye_l_brow_top
+    2300012: mod_eye_r_brow_bot
+    2300014: mod_eye_r_brow_top
+    2300016: mod_female
+    3300000: cornea_L
+    3300002: cornea_R
+    3300004: eyeball_L
+    3300006: eyeball_R
+    3300008: mod_eye_l_brow_bot
+    3300010: mod_eye_l_brow_top
+    3300012: mod_eye_r_brow_bot
+    3300014: mod_eye_r_brow_top
+    3300016: mod_female
+    4300000: eyeball_L
+    4300002: cornea_L
+    4300004: cornea_R
+    4300006: eyeball_R
+    4300008: mod_eye_l_brow_top
+    4300010: mod_eye_l_brow_bot
+    4300012: mod_eye_r_brow_top
+    4300014: mod_eye_r_brow_bot
+    4300016: mod_female
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: .5
+    animationPositionError: .5
+    animationScaleError: .5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    splitTangentsAcrossUV: 1
+    normalImportMode: 0
+    tangentImportMode: 1
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: .5
+    foreArmTwist: .5
+    upperLegTwist: .5
+    legTwist: .5
+    armStretch: .0500000007
+    legStretch: .0500000007
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

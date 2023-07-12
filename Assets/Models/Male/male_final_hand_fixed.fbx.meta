@@ -1,0 +1,132 @@
+fileFormatVersion: 2
+guid: 5283b6b8990bf834e8e3f9fe2eabf51f
+timeCreated: 1461048955
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 19
+  fileIDToRecycleName:
+    100000: body
+    100002: eye_in_left
+    100004: eye_in_right
+    100006: eye_out_left
+    100008: eye_out_right
+    100010: gr_eyes
+    100012: gr_mod_extra
+    100014: group1
+    100016: group2
+    100018: //RootNode
+    100020: teeth_bottom
+    100022: teeth_top
+    100024: tongue
+    100026: wimpels_01
+    100028: wimpels_02
+    400000: body
+    400002: eye_in_left
+    400004: eye_in_right
+    400006: eye_out_left
+    400008: eye_out_right
+    400010: gr_eyes
+    400012: gr_mod_extra
+    400014: group1
+    400016: group2
+    400018: //RootNode
+    400020: teeth_bottom
+    400022: teeth_top
+    400024: tongue
+    400026: wimpels_01
+    400028: wimpels_02
+    2300000: body
+    2300002: eye_in_left
+    2300004: eye_in_right
+    2300006: eye_out_left
+    2300008: eye_out_right
+    2300010: teeth_bottom
+    2300012: teeth_top
+    2300014: tongue
+    2300016: wimpels_01
+    2300018: wimpels_02
+    3300000: body
+    3300002: eye_in_left
+    3300004: eye_in_right
+    3300006: eye_out_left
+    3300008: eye_out_right
+    3300010: teeth_bottom
+    3300012: teeth_top
+    3300014: tongue
+    3300016: wimpels_01
+    3300018: wimpels_02
+    4300000: teeth_top
+    4300002: teeth_bottom
+    4300004: tongue
+    4300006: wimpels_02
+    4300008: wimpels_01
+    4300010: eye_in_right
+    4300012: eye_out_right
+    4300014: eye_out_left
+    4300016: eye_in_left
+    4300018: body
+    9500000: //RootNode
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleRotations: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importBlendShapes: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    hasTranslationDoF: 0
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 2
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

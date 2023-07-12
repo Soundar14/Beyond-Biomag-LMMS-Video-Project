@@ -1,0 +1,4 @@
+#UnityIAP
+-keep class com.unity.purchasing.**{*;}
+-keep class com.android.vending.billing.**{*;}
+-dontwarn com.unity.purchasing.
